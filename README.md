@@ -15,4 +15,7 @@ If you use this code in any way, or found it useful, please consider citing the 
 ```
 # Implementation
 You can view and execute the code interactively using the Jupyter Notebook provided in the repository. <br>
-Sometimes, Github is not able to load the contents of the notebook. An alternative link to view and download the Jupyter Notebook can be found  <a href="https://nbviewer.jupyter.org/github/rajatsahay/LSE-StyleGAN/blob/master/LSE-StyleGAN.ipynb">here</a>.
+Sometimes, Github is not able to load the contents of the notebook. An alternative link to view and download the Jupyter Notebook can be found  <a href="https://nbviewer.jupyter.org/github/rajatsahay/LSE-StyleGAN/blob/master/LSE-StyleGAN.ipynb">here</a>. <br>
+
+# Results
+The input image given was a face: ![Input Image](https://github.com/rajatsahay/LSE-StyleGAN/blob/master/assets/original.png)
