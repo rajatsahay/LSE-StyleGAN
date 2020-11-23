@@ -1,7 +1,6 @@
 # LSE-StyleGAN
 Implementation of the paper Image2StyleGAN: How to Embed Images into the StyleGAN Latent Space? (CVPR 2020) <br>
-The paper can be found 
-<a href=https://openaccess.thecvf.com/content_ICCV_2019/papers/Abdal_Image2StyleGAN_How_to_Embed_Images_Into_the_StyleGAN_Latent_Space_ICCV_2019_paper.pdf">here</a>.
+The paper can be found <a href="https://openaccess.thecvf.com/content_ICCV_2019/papers/Abdal_Image2StyleGAN_How_to_Embed_Images_Into_the_StyleGAN_Latent_Space_ICCV_2019_paper.pdf">here</a>.
 
 If you use this code in any way, or found it useful, please consider citing the original paper:
 ```
